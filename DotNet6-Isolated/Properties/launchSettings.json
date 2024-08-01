@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DotNet6_Isolated": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7169",
+      "launchBrowser": false
+    }
+  }
+}
